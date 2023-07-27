@@ -9,13 +9,13 @@ A solução proposta envolve implementar um layout 2D com responsividade usando 
 
 ## Captura de Tela da Solução
 ### Desktop
-![Captura de Tela Desktop](https://github.com/Gabrieluser430/pr-example/assets/107634249/32a481cc-0e84-446e-b503-238158b7accf)
+![desktopGym](https://github.com/Gabrieluser430/pr-example/assets/107634249/585cdcbc-8fca-46aa-999d-9d84f4503780)
 
 ### Telas Médias
-![Captura de Tela para Telas Médias](https://github.com/Gabrieluser430/pr-example/assets/107634249/3882fc3e-9921-406f-8935-ab0306895ed0)
+![mediumGym](https://github.com/Gabrieluser430/pr-example/assets/107634249/a8e17f4f-037d-4856-b8f3-1af748b2cef7)
 
 ### Celular
-![Captura de Tela Mobile](https://github.com/Gabrieluser430/pr-example/assets/107634249/8e47730f-47e3-4c46-9c50-ff8389c05f8d)
+![mobileGym](https://github.com/Gabrieluser430/pr-example/assets/107634249/cae77b2c-6aca-41ef-a13b-f21dd93f5bd8)
 
 ## Links
 Você pode ver a solução implementada no seguinte link: [Live site](https://academia-x1-solution.vercel.app/products.html)
